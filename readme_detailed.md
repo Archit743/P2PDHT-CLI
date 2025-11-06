@@ -1,4 +1,4 @@
-# P2P DHT Key-Value Store
+# P2P DHT Key-Value Store 
 
 A peer-to-peer distributed hash table (DHT) implementation using the Kademlia algorithm in Go. This project demonstrates advanced distributed systems concepts including decentralized routing, fault tolerance, and self-organizing networks.
 
